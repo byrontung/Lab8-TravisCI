@@ -1,0 +1,4 @@
+#Wed Mar 17 14:18:53 MDT 2021
+base.0=F\:\\Lab8-TravisCI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
